@@ -1,5 +1,6 @@
 # firebase-sample
 DBの環境を構築し、Firebaseにデプロイするまでの一連の流れをまとめたREADME
+（下記記述は参考資料2から引用しつつ、VersionUpによって表示が変わったものを修正しています）
 ※WebサイトからDBに値を入れる方法は参考資料3を参考にしてね！
 
 ## Datebase
